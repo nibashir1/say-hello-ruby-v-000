@@ -4,3 +4,4 @@ def say_hello(language = "Ruby Programmer", name)
 end
 
 say_hello("Nimer")
+say_hello
